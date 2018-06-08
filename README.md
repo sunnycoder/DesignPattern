@@ -2,6 +2,19 @@
 
 记录设计模式学习笔记 & 代码分享
 
+## 概述
+
+设计模式（Design pattern）代表了最佳的实践，通常被有经验的面向对象的软件开发人员所采用。
+设计模式是软件开发人员在软件开发过程中面临的一般问题的解决方案。这些解决方案是众多软件开发人员经过相当长的一段时间的试验和错误总结出来的。
+
+## 传送门
+
+- [状态模式](/StatePattern/StatePattern.md)
+
+- [策略模式](/StrategyPattern/StrategyPattern.md)
+
+- [享元模式](/FlyweightPattern/FlyweightPattern.md)
+
 ## 设计模式的类型
 - 创建型模式（Creational Patterns）
 - 结构型模式（Structural Patterns）
